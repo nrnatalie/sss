@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "name": "Петуния",
+    "image": "https://sad-i-ogorod.ru/upload/iblock/53e/y0flobt1km2fsoje0ss1cxce683pg02q.jpg",
+    "details": [
+      {
+        "id": 1,
+        "name": "Петуния ампельная в ассортименте",
+        "size": "9см",
+        "cost": 140,
+        "image": "https://agromarket.ru/media/wysiwyg/agromarket/blog/vyrashhivanie-i-uhod-za-ampelnymi-petunijami/supertunija.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Петуния ампельная в ассортименте",
+        "size": "14см",
+        "cost": 260,
+        "image": "http://proklumbu.com/wp-content/uploads/2017/06/image.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Петуния ампельная в ассортименте",
+        "size": "24см",
+        "cost": 680,
+        "image": "https://greenagri.ru/image/cache/catalog/blog/petunia/63b84c7b88cf0ff232fc29ecf4f7260c-567x567.jpg.webp"
+      },
+      {
+        "id": 4,
+        "name": "Петуния кустовая в ассортименте",
+        "size": "5см",
+        "cost": 32,
+        "image": "https://greenagri.ru/image/cache/catalog/blog/petunia/57ecce20415cde7e25b63a6225f59d98-950x613.jpg.webp"
+      },
+      {
+        "id": 5,
+        "name": "Петуния кустовая в ассортименте",
+        "size": "7см",
+        "cost": 45,
+        "image": "https://anna-garden.ru/image/cache/import-files-f8-f8169fa0604811e6a7ae902b3448c483-f8169fa1604811e6a7ae902b3448c483-640x480.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Петуния махровая в ассортименте",
+        "size": "12см",
+        "cost": 240,
+        "image": "https://agro-market24.ru/upload/medialibrary/6c5/p4egxsd5edflnue1d4uaxcbecax9u2y2.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Пеларгония",
+    "image": "https://pitomnik.spb.ru/assets/images/katalog/rassada_cvetov/pelargoniya_geran/Pelargonium_Galaxy_Violet.jpg",
+    "details": [
+      {
+        "id": 1,
+        "name": "Пеларгония кустовая в ассортименте",
+        "size": "14см",
+        "cost": 360,
+        "image": "путь_к_изображению_детали2_петунии.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Пеларгония ампельная в ассортименте",
+        "size": "14",
+        "cost": 360,
+        "image": "https://www.ncsemena.ru/upload/webp/iblock/b1a/b1a1197151069e426a0909fe4eca0882.webp"
+      },
+      {
+        "id": 3,
+        "name": "Пеларгония ампельная в ассортименте",
+        "size": "24см",
+        "cost": 740,
+        "image": "https://www.ncsemena.ru/upload/webp/iblock/29c/29cfb963d27f6554e6f2fc26b33bc5b3.webp"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Калибрахоа",
+    "image": "https://zelslon.by/wp-content/uploads/2021/02/131.jpg",
+    "details": [
+      {
+        "id": 1,
+        "name": "Калибрахоа ампельная в ассортименте",
+        "size": "9см",
+        "cost": 140,
+        "image": "https://www.ncsemena.ru/upload/webp/iblock/afe/afeab5d07ecce2a88b6a904e8ddd1364.webp"
+      },
+      {
+        "id": 2,
+        "name": "Калибрахоа ампельная в ассортименте",
+        "size": "14см",
+        "cost": 260,
+        "image": "https://www.ncsemena.ru/upload/webp/iblock/b9c/b9c11abfedc753996588a061ac129d94.webp"
+      },
+      {
+        "id": 3,
+        "name": "Калибрахоа ампельная в ассортименте",
+        "size": "24см",
+        "cost": 680,
+        "image": "https://www.ncsemena.ru/upload/webp/iblock/e93/e934feadda0017d7733ce0e0f9f5036e.webp"
+      },
+      {
+        "id": 4,
+        "name": "Калибрахоа кустовая в ассортименте",
+        "size": "5см",
+        "cost": 32,
+        "image": "https://www.ncsemena.ru/upload/webp/resize_cache/26e/1000_1000_1/26e6fa7fe6018c63d7f451683a06c688.webp"
+      },
+      {
+        "id": 5,
+        "name": "Калибрахоа кустовая в ассортименте",
+        "size": "7см",
+        "cost": 45,
+        "image": "https://www.ncsemena.ru/upload/webp/iblock/9a0/9a043f974b3f92514574df0aac60aa8e.webp"
+      },
+      {
+        "id": 6,
+        "name": "Калибрахоа махровая в ассортименте",
+        "size": "12см",
+        "cost": 240,
+        "image": "https://www.ncsemena.ru/upload/webp/iblock/428/4287b91e5b71b9bfcaf53124f99260cc.webp"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Виола",
+    "image": "https://i.etsystatic.com/32067202/r/il/5d45a1/3410506685/il_794xN.3410506685_gqwe.jpg",
+    "details": [
+      {
+        "id": 1,
+        "name": "Виола ампельная в ассортименте",
+        "size": "24см",
+        "cost": 670,
+        "image": "https://static.insales-cdn.com/images/products/1/3829/565612277/large_PANSY-F1-SPREADING-COOL-WAVE-RASPBERRY.jpg_"
+      },
+      {
+        "id": 2,
+        "name": "Виола кустовая в ассортименте",
+        "size": "7см",
+        "cost": 45,
+        "image": "https://static.insales-cdn.com/images/products/1/3499/565611947/PANSY-F1-SPREADING-COOL-WAVE-BLUE-SKIES.jpg_"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Бакопа",
+    "image": "https://zelslon.by/wp-content/uploads/2021/02/Bakopa-belaya.jpg",
+    "details": [
+      {
+        "id": 1,
+        "name": "Бакопа ампельная в ассортименте",
+        "size": "24см",
+        "cost": 670,
+        "image": "https://static.insales-cdn.com/images/products/1/536/657613336/large_dispthumb__58_.webp"
+      },
+      {
+        "id": 2,
+        "name": "Бакопа ампельная в ассортименте",
+        "size": "10см",
+        "cost": 240,
+        "image": "https://static.insales-cdn.com/images/products/1/8153/657612761/large_dispthumb__55_.webp"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Малина ремонтантная",
+    "image": "https://lafa.ru/upload/iblock/ea5/67059-malina-remontantnaya-korolevskiy-pingvin-shtamb.jpg",
+    "details": [
+      {
+        "id": 1,
+        "name": "Малина ремонтантная в ассортименте",
+        "size": "20см",
+        "cost": 570,
+        "image": "https://www.opitomnik.ru/img/work/news/a_50_301.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Малина ремонтантная в ассортименте",
+        "size": "35см",
+        "cost": 780,
+        "image": "https://www.opitomnik.ru/img/work/news/a_50_288.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Земляника садовая",
+    "image": "https://img.vkusvill.ru/pim/images/site_LargeWebP/5e891704-cf46-4943-b562-1251e8d534ad.webp?1674852979.7647",
+    "details": [
+      {
+        "id": 1,
+        "name": "Земляника садовая ремонтантная",
+        "size": "12см",
+        "cost": 180,
+        "image": "https://vashnil.ru/upload/thumbs/article_big/news/image/b498e9e7-1_616e8cbf62e28.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Земляника садовая не ремонтантная",
+        "size": "12см",
+        "cost": 180,
+        "image": "https://vashnil.ru/upload/thumbs/article_big/news/image/zynqtmwdnxi_616fa1ce87f66.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Смородина",
+    "image": "https://static.tildacdn.com/tild3063-3064-4364-b262-663238353133/smorodina-13.jpg",
+    "details": [
+      {
+        "id": 1,
+        "name": "Смородина красная в ассортименте",
+        "size": "24см",
+        "cost": 570,
+        "image": "https://shop-gardenplants.ru/upload/iblock/63a/08neubmo625ta0ly5v7sm2ntk893hrgh/8581.970.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Смородина черная в ассортименте",
+        "size": "24см",
+        "cost": 570,
+        "image": "https://zakazvsad.ru/wp-content/uploads/2022/08/smorodina-chernaya-yadrenaya-kupit-sazhenecz.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Смородина белая в ассортименте",
+        "size": "24см",
+        "cost": 570,
+        "image": "https://polevaya4.ru/image/cachewebp/catalog/tovari/i/km/ib/8adc43121ae8d7ee37613295380497b3-1000x1000.webp"
+      }
+    ]
+  }
+]
